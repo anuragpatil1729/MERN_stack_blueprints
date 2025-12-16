@@ -1,0 +1,2 @@
+Tech Stack = MERN ( MongoDB , Express.js , React.js , Node.js)
+This file wont contain any project it will only contain the blusprints , and ready to use feactures that i use to make websites and webapplication
